@@ -13,7 +13,7 @@ s3>=18
 s4>=28
 s5>=28
 s6>=28
-if s1>=35 and s2>=35 and s3>=18 and s4>=28 and s4>=28 and s4>=28:
+if s1>=35 and s2>=35 and s3>=18 and s4>=28 and s5>=28 and 6>=28:
     print('exam pass')
 else:
         print('exam fail')
